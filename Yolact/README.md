@@ -28,3 +28,14 @@ because this process doesn’t depend on repooling, this approach produces very 
 
 ![image](https://user-images.githubusercontent.com/76057253/136133073-8fb4db3b-f0f2-408b-9872-e1126004defd.png)
 ![image](https://user-images.githubusercontent.com/76057253/136132989-0fb25eee-a702-457b-87a1-7f4c18eadd0b.png)
+
+```
+@misc{bolya2019yolact,
+      title={YOLACT: Real-time Instance Segmentation}, 
+      author={Daniel Bolya and Chong Zhou and Fanyi Xiao and Yong Jae Lee},
+      year={2019},
+      eprint={1904.02689},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
